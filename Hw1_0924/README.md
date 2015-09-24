@@ -1,10 +1,10 @@
 # 2015_oose_0224032
 For Class Practice and Homework
-## 2015 / 09 / 24 ##
-***Books Look Up***
 ****
 
     國立高雄第一科技大學 資訊管理系 二年級B班 0224032 曾琬真
+***Books Look Up***
+## 2015 / 09 / 24 ##
 
 **This program** is used to look up the books' information.
  
