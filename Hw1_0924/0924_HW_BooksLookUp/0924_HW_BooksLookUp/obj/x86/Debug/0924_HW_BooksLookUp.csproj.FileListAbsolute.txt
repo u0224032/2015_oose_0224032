@@ -1,0 +1,4 @@
+c:\users\administrator\documents\visual studio 2010\Projects\0924_HW_BooksLookUp\0924_HW_BooksLookUp\bin\Debug\0924_HW_BooksLookUp.exe
+c:\users\administrator\documents\visual studio 2010\Projects\0924_HW_BooksLookUp\0924_HW_BooksLookUp\bin\Debug\0924_HW_BooksLookUp.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\0924_HW_BooksLookUp\0924_HW_BooksLookUp\obj\x86\Debug\0924_HW_BooksLookUp.exe
+c:\users\administrator\documents\visual studio 2010\Projects\0924_HW_BooksLookUp\0924_HW_BooksLookUp\obj\x86\Debug\0924_HW_BooksLookUp.pdb
