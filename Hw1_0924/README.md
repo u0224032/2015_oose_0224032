@@ -1,28 +1,25 @@
 # 2015_oose_0224032
 For Class Practice and Homework
-## Welcome to My block ##
-***Let me show you about me***
+## 2015 / 09 / 24 ##
+***Books Look Up***
 ****
 
     國立高雄第一科技大學 資訊管理系 二年級B班 0224032 曾琬真
 
-**My name**  is Wang-Cheng Tseng. And  you also call me OJJ.
+**This program** is used to look up the books' information.
  
-**My hobbies** include drawing, listening to music, do something strange         fun things and play games.
+**You can** search by various choices.
  
-**I live** in Asia, I come from Taiwan. 
+**This is** a little practice and test just for class. 
  
-And now, I study in NKFUST.
- 
-Nice to see you guys !
- 
-### More about me... ###
+### That's all ! All the perfect process will record above this document ! ###
 
-And this is my [Trello](https://trello.com/b/HyWDLEGG/2015-oose-0224032) you can click to check.
+# Four develop progress #
+## 1.Requests ##
 
-If you want to know about me, you can follow me or make friend with me, very welcoming~
+## 2.Design ##
 
-And this is my [facebook](https://www.facebook.com/ceng.w.zhen) you can click to check.
+## 3.Coding ##
 
-![Nice to meet you](https://scontent-tpe1-1.xx.fbcdn.net/hphotos-xap1/v/t1.0-9/1001922_620805694640954_1306000232_n.jpg?oh=b041f9d7315e4ffe268609434205f382&oe=5663C8BD)
+## 4.Test ##
 
