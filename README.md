@@ -18,6 +18,8 @@ Nice to see you guys !
  
 ### More about me... ###
 
+And this is my [Trello](https://trello.com/b/HyWDLEGG/2015-oose-0224032) you can click to check.
+
 If you want to know about me, you can follow me or make friend with me, very welcoming~
 
 And this is my [facebook](https://www.facebook.com/ceng.w.zhen) you can click to check.
