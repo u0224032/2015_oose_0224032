@@ -18,6 +18,7 @@ For Class Practice and Homework
 # Four develop progress 
 ## 1.Requests 
 搜尋功能(ISBN、書名、作者、出版社、類型、售價)
+
 類型(科技、小說、商管、歷史、文學、其他)
 ## 2.Design 
 ###一、純文字介面(C#)
