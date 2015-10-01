@@ -13,7 +13,7 @@ For Class Practice and Homework
  
 **This is** a little practice and test just for class. 
  
-### That's all ! All the perfect process will record above this document ! 
+### That's all ! All the perfect progress will be recorded above this document ! 
 
 # Four develop progress 
 ## 1.Requests 
