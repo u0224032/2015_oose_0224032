@@ -38,6 +38,7 @@ For Class Practice and Homework
 
 ## 3.Coding ##
 一、純文字介面使用C#開發(僅查詢用)
+用console畫面進行查詢
 
 ## 4.Test ##
 一、測試Debug沒問題
