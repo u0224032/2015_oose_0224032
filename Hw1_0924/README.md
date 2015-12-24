@@ -57,6 +57,9 @@ Ex:
  
 循序圖 → 
 ![循序圖](https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xfa1/v/t1.0-9/11232892_883589578362563_5615474382679718970_n.jpg?oh=82e5fa9c765525611bcf610c01f3cd4d&oe=571CDB59&__gda__=1457273967_ba09deb2acbd81b57504e290e29c093a)
+ 
+強韌圖 → 
+![強韌圖](https://scontent-tpe1-1.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/10352838_891668717554649_8857712474230426284_n.jpg?oh=4c5c5d313d6bec3f54aa02265910accd&oe=571B6990)
 
 # 四大開發步驟 
 ## 1.Requests 
