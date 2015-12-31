@@ -50,16 +50,16 @@ Ex:
  
 # 系統架構圖
 使用案例圖 → 
-![使用案例圖](https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-xlt1/v/t1.0-9/12075073_883589585029229_938760991506709937_n.jpg?oh=871761d691f5a5dba744e4aafb8620d2&oe=5721551B&__gda__=1461851867_9ca79b753c050fdac00afbf884502b5f)
+![使用案例圖](https://scontent-tpe1-1.xx.fbcdn.net/hphotos-xaf1/v/t1.0-9/1909735_894968860557968_5307684955234194576_n.jpg?oh=d85b2cb159320a3ecf98294cd15ed6fe&oe=56FC0C43)
  
 類別圖 → 
-![類別圖](https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-xtp1/v/t1.0-9/12347594_883589581695896_3962838515440807839_n.jpg?oh=c53adff52ae4db62bf2b0ab8f96e8802&oe=56DA464B&__gda__=1457070461_1e4bf0fc16e7f1513c31e97ce3f2e853)
+![類別圖](https://scontent-tpe1-1.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/1880_894968853891302_7840157290992143989_n.jpg?oh=ad60942ce9a7c7318dfbfa70e170d7a5&oe=571379ED)
  
 循序圖 → 
-![循序圖](https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xfa1/v/t1.0-9/11232892_883589578362563_5615474382679718970_n.jpg?oh=82e5fa9c765525611bcf610c01f3cd4d&oe=571CDB59&__gda__=1457273967_ba09deb2acbd81b57504e290e29c093a)
+![循序圖](https://scontent-tpe1-1.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/10612741_894968857224635_7676287432140377238_n.jpg?oh=76a2bf4cc3a9f5e3de7c43dbdd075c00&oe=5711BAB8)
  
 強韌圖 → 
-![強韌圖](https://scontent-tpe1-1.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/10352838_891668717554649_8857712474230426284_n.jpg?oh=4c5c5d313d6bec3f54aa02265910accd&oe=571B6990)
+![強韌圖](https://scontent-tpe1-1.xx.fbcdn.net/hphotos-xaf1/v/t1.0-9/261363_894968873891300_8281483056431889195_n.jpg?oh=07d05d18cd79f54924f195fbcd36a9ff&oe=57135C04)
 
 # 四大開發步驟 
 ## 1.Requests 
